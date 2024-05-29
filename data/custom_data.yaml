@@ -1,0 +1,15 @@
+
+train: /content/drive/MyDrive/train_data/images/train
+val: /content/drive/MyDrive/train_data/images/test
+
+# Classes
+names:
+  0: bio
+  1: can
+  2: cloth
+  3: glass
+  4: metal
+  5: plastic_bag
+  6: plastic_bottle
+  7: plastic_container
+  8: packaging_bag
